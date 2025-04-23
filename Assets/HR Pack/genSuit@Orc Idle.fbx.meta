@@ -1,0 +1,686 @@
+fileFormatVersion: 2
+guid: 8071f5eb9229a4edabbd238c6e094a14
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: genSuit
+    second: {fileID: 2100000, guid: 801218222ebc64ebbbac2e0065f65322, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: mixamo.com
+      internalID: -203655887218126122
+      firstFrame: 0
+      lastFrame: 160
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.01
+    globalScale: 1.8
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: genSuit_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: genSuit_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: genSuit_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: genSuit_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: genSuit_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: genSuit_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: genSuit_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: genSuit_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: genSuit_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: genSuit_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: genSuit_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: genSuit_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: genSuit_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: genSuit_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: genSuit_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: genSuit_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: genSuit_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: genSuit_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: genSuit_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: genSuit_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: genSuit_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: genSuit_LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: genSuit_LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: genSuit_LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: genSuit_LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: genSuit_LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: genSuit_LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: genSuit_LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: genSuit_LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: genSuit_LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: genSuit_RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: genSuit_RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: genSuit_RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: genSuit_RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: genSuit_RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: genSuit_RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: genSuit_RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: genSuit_RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: genSuit_RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: genSuit@Orc Idle(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: genSuit_LOD0
+      parentName: genSuit@Orc Idle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: genSuit_LOD1
+      parentName: genSuit@Orc Idle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: genSuit_LOD2
+      parentName: genSuit@Orc Idle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: genSuit_Reference
+      parentName: genSuit@Orc Idle(Clone)
+      position: {x: 0.00048365686, y: -0.000024916993, z: 0.003799836}
+      rotation: {x: -0.10267122, y: 0.034669016, z: 0.009604299, w: 0.9940646}
+      scale: {x: 1, y: 1, z: 1}
+    - name: genSuit_Hips
+      parentName: genSuit_Reference
+      position: {x: 0.000011552473, y: 0.020154107, z: 0.00019755436}
+      rotation: {x: 0.10267123, y: -0.034669016, z: -0.009604299, w: 0.9940646}
+      scale: {x: 0.9999998, y: 1, z: 1}
+    - name: genSuit_LeftUpLeg
+      parentName: genSuit_Hips
+      position: {x: -0.0017116074, y: -0.0012043801, z: 0}
+      rotation: {x: -0.0019160211, y: 0.00014982745, z: -0.07898641, w: 0.9968739}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: genSuit_LeftLeg
+      parentName: genSuit_LeftUpLeg
+      position: {x: -8.7933316e-10, y: -0.007878072, z: -0.00067574304}
+      rotation: {x: 0.0036559324, y: 0.0000037928544, z: -0.00004638568, w: 0.9999934}
+      scale: {x: 0.99999994, y: 1.0000002, z: 1}
+    - name: genSuit_LeftFoot
+      parentName: genSuit_LeftLeg
+      position: {x: 4.4469037e-10, y: -0.008735333, z: -0.0006990001}
+      rotation: {x: 0.006898635, y: -0.10856186, z: 0.07874627, w: 0.9909419}
+      scale: {x: 0.99999976, y: 1, z: 1}
+    - name: genSuit_LeftToeBase
+      parentName: genSuit_LeftFoot
+      position: {x: -0.0000000017230021, y: -0.0015908319, z: 0.0022116443}
+      rotation: {x: 0.0000000013969835, y: -0, z: -0.0000000035506664, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000006}
+    - name: genSuit_Spine
+      parentName: genSuit_Hips
+      position: {x: -0, y: 0.0022901203, z: 0}
+      rotation: {x: -0.0000000074505797, y: -0, z: 2.3283062e-10, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: genSuit_Spine1
+      parentName: genSuit_Spine
+      position: {x: -0, y: 0.0026982736, z: 0}
+      rotation: {x: -0.000000029802319, y: 1.38777845e-17, z: -9.3132246e-10, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: genSuit_LeftShoulder
+      parentName: genSuit_Spine1
+      position: {x: -0.0013446973, y: 0.0039550504, z: -3.1974413e-19}
+      rotation: {x: -0.00000082705697, y: -0.07006977, z: 0.00000000833102, w: 0.9975421}
+      scale: {x: 1, y: 0.9999998, z: 1.0000004}
+    - name: genSuit_LeftArm
+      parentName: genSuit_LeftShoulder
+      position: {x: -0.0025199996, y: 0.000000027465818, z: -1.2874604e-10}
+      rotation: {x: -0.02768797, y: 0.06725976, z: 0.032864727, w: 0.99680966}
+      scale: {x: 1.0000006, y: 1.0000004, z: 0.99999964}
+    - name: genSuit_LeftForeArm
+      parentName: genSuit_LeftArm
+      position: {x: -0.004392583, y: 1.5347724e-17, z: 1.289729e-10}
+      rotation: {x: -0.0054225996, y: 0.032253593, z: -0.010459684, w: 0.9994103}
+      scale: {x: 1, y: 1.0000001, z: 1.0000002}
+    - name: genSuit_LeftHand
+      parentName: genSuit_LeftForeArm
+      position: {x: -0.0053581228, y: 0.0001803293, z: 0.000083322055}
+      rotation: {x: -0.00000003260442, y: -0.000000029802322, z: -0.000000035026293, w: 1}
+      scale: {x: 1.0000002, y: 0.9999999, z: 1.0000004}
+    - name: genSuit_LeftHandThumb1
+      parentName: genSuit_LeftHand
+      position: {x: -0.0004288861, y: -0.00027125102, z: 0.00074425153}
+      rotation: {x: -0.32892308, y: 0.46710676, z: 0.19043168, w: 0.7983463}
+      scale: {x: 1.0000006, y: 1.0000007, z: 1.0000008}
+    - name: genSuit_LeftHandThumb2
+      parentName: genSuit_LeftHandThumb1
+      position: {x: -0.00066600996, y: 0.00001983418, z: -0.00020203424}
+      rotation: {x: 0.030851804, y: 0.3676578, z: -0.083909, w: 0.92565393}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000008}
+    - name: genSuit_LeftHandThumb3
+      parentName: genSuit_LeftHandThumb2
+      position: {x: -0.00025118317, y: -0.00009514625, z: -0.0005108882}
+      rotation: {x: 9.3132235e-10, y: 0.000000014901158, z: 2.3283059e-10, w: 1}
+      scale: {x: 0.9999995, y: 1.0000005, z: 1}
+    - name: genSuit_LeftHandIndex1
+      parentName: genSuit_LeftHand
+      position: {x: -0.0015795918, y: 0.00007321261, z: 0.0008752068}
+      rotation: {x: -0.002014234, y: -0.024491062, z: -0.06703155, w: 0.9974482}
+      scale: {x: 1, y: 1.0000004, z: 0.9999999}
+    - name: genSuit_LeftHandIndex2
+      parentName: genSuit_LeftHandIndex1
+      position: {x: -0.0009057193, y: -0.00020796648, z: 0.00016879868}
+      rotation: {x: -0.014883806, y: -0.020039178, z: -0.10453905, w: 0.9942075}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000002}
+    - name: genSuit_LeftHandIndex3
+      parentName: genSuit_LeftHandIndex2
+      position: {x: -0.00043821882, y: -0.00024938147, z: 0.00011018297}
+      rotation: {x: -0.0000084452295, y: 0.00013793519, z: -0.06101256, w: 0.99813706}
+      scale: {x: 1.0000002, y: 1, z: 0.99999976}
+    - name: genSuit_LeftHandMiddle1
+      parentName: genSuit_LeftHand
+      position: {x: -0.0015230695, y: 0.00005075129, z: 0.000049151153}
+      rotation: {x: -0.0033480711, y: -0.0035134824, z: -0.13836855, w: 0.9903689}
+      scale: {x: 0.9999999, y: 1.0000002, z: 0.9999999}
+    - name: genSuit_LeftHandMiddle2
+      parentName: genSuit_LeftHandMiddle1
+      position: {x: -0.0010091815, y: -0.00042773972, z: 0.000046227775}
+      rotation: {x: -0.0012441344, y: -0.01880683, z: -0.20117883, w: 0.97937316}
+      scale: {x: 1.0000004, y: 1.0000002, z: 0.99999976}
+    - name: genSuit_LeftHandMiddle3
+      parentName: genSuit_LeftHandMiddle2
+      position: {x: -0.00038409157, y: -0.00045607978, z: 0.00004501125}
+      rotation: {x: -0, y: -0, z: -1.8780505e-19, w: 1}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1}
+    - name: genSuit_AttachHandLeft
+      parentName: genSuit_LeftHand
+      position: {x: -0.0015437986, y: -0.0006863776, z: 0.00039006505}
+      rotation: {x: -0.000000040991527, y: -0.7071069, z: -0.00000006545898, w: 0.70710677}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000007}
+    - name: genSuit_Neck
+      parentName: genSuit_Spine1
+      position: {x: -7.122423e-35, y: 0.005153934, z: 0.0003122316}
+      rotation: {x: 0.000000029802319, y: -1.873501e-16, z: 0.000000005587935, w: 1}
+      scale: {x: 1, y: 0.9999998, z: 1.0000004}
+    - name: genSuit_Head
+      parentName: genSuit_Neck
+      position: {x: 4.5119336e-35, y: 0.0022269723, z: 0.0007167715}
+      rotation: {x: -0, y: -1.3234888e-23, z: 5.583467e-24, w: 1}
+      scale: {x: 1, y: 1, z: 0.99999976}
+    - name: genSuit_RightShoulder
+      parentName: genSuit_Spine1
+      position: {x: 0.0013446973, y: 0.0039550858, z: -3.1974468e-19}
+      rotation: {x: 0.99754214, y: 0.0000000012116012, z: -0.07006977, w: 0.00000084137946}
+      scale: {x: 1.0000001, y: 1.000001, z: 1.0000011}
+    - name: genSuit_RightArm
+      parentName: genSuit_RightShoulder
+      position: {x: 0.0025200052, y: -3.1970912e-10, z: -0.0000000010551477}
+      rotation: {x: -0.02768831, y: 0.067259915, z: 0.032860346, w: 0.9968097}
+      scale: {x: 1.0000002, y: 1.0000007, z: 1.0000004}
+    - name: genSuit_RightForeArm
+      parentName: genSuit_RightArm
+      position: {x: 0.0043925876, y: 0.0000000336211, z: 0.0000000030645522}
+      rotation: {x: -0.0054225866, y: 0.032252237, z: -0.010452988, w: 0.99941045}
+      scale: {x: 1.0000001, y: 1.0000007, z: 1.000001}
+    - name: genSuit_RightHand
+      parentName: genSuit_RightForeArm
+      position: {x: 0.0053581037, y: -0.00018037965, z: -0.00008333086}
+      rotation: {x: -0.000000028948321, y: -0.00000005960463, z: -0.00000008013382, w: 1}
+      scale: {x: 1.0000002, y: 1.0000012, z: 1.0000008}
+    - name: genSuit_RightHandThumb1
+      parentName: genSuit_RightHand
+      position: {x: 0.000428864, y: 0.0002712042, z: -0.00074426}
+      rotation: {x: -0.32893065, y: 0.46715537, z: 0.19037852, w: 0.7983274}
+      scale: {x: 0.9999995, y: 1.0000011, z: 0.99999976}
+    - name: genSuit_RightHandThumb2
+      parentName: genSuit_RightHandThumb1
+      position: {x: 0.00066605594, y: -0.000019800653, z: 0.00020218625}
+      rotation: {x: 0.030834012, y: 0.36750555, z: -0.083871536, w: 0.9257184}
+      scale: {x: 1.0000005, y: 1.0000008, z: 1.0000012}
+    - name: genSuit_RightHandThumb3
+      parentName: genSuit_RightHandThumb2
+      position: {x: 0.0002511968, y: 0.0000951244, z: 0.0005107476}
+      rotation: {x: 0.000000021420417, y: 0.000000014901159, z: -0.00000002677552, w: 1}
+      scale: {x: 1.0000002, y: 1.0000012, z: 1.0000002}
+    - name: genSuit_RightHandIndex1
+      parentName: genSuit_RightHand
+      position: {x: 0.0015796373, y: -0.00007313416, z: -0.0008751842}
+      rotation: {x: -0.0020103378, y: -0.024493866, z: -0.06697956, w: 0.99745166}
+      scale: {x: 0.9999995, y: 1.0000005, z: 1.000001}
+    - name: genSuit_RightHandIndex2
+      parentName: genSuit_RightHandIndex1
+      position: {x: 0.00090565643, y: 0.00020786883, z: -0.00016882778}
+      rotation: {x: -0.014916198, y: -0.020006664, z: -0.10463784, w: 0.99419725}
+      scale: {x: 1.0000007, y: 1.0000021, z: 1.0000023}
+    - name: genSuit_RightHandIndex3
+      parentName: genSuit_RightHandIndex2
+      position: {x: 0.0004382834, y: 0.00024948185, z: -0.00011016427}
+      rotation: {x: -0.000008430697, y: 0.00013792561, z: -0.061012592, w: 0.998137}
+      scale: {x: 1, y: 0.9999988, z: 0.99999857}
+    - name: genSuit_RightHandMiddle1
+      parentName: genSuit_RightHand
+      position: {x: 0.0015231097, y: -0.000050667695, z: -0.000049134687}
+      rotation: {x: -0.0033453465, y: -0.0035183795, z: -0.13832848, w: 0.9903745}
+      scale: {x: 1, y: 1.0000006, z: 1.0000014}
+    - name: genSuit_RightHandMiddle2
+      parentName: genSuit_RightHandMiddle1
+      position: {x: 0.0010091641, y: 0.0004277047, z: -0.000046234974}
+      rotation: {x: -0.0012422878, y: -0.018815074, z: -0.20116813, w: 0.9793752}
+      scale: {x: 1.0000008, y: 1.0000019, z: 1.0000015}
+    - name: genSuit_RightHandMiddle3
+      parentName: genSuit_RightHandMiddle2
+      position: {x: 0.00038406247, y: 0.0004560012, z: -0.000045021123}
+      rotation: {x: -0, y: -0, z: -1.6147732e-15, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000005}
+    - name: genSuit_AttachHandRight
+      parentName: genSuit_RightHand
+      position: {x: 0.0015438228, y: 0.00068643794, z: -0.0003900555}
+      rotation: {x: 0.00000004043714, y: -0.7071068, z: 0.000000008863752, w: 0.7071068}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1.0000005}
+    - name: genSuit_RightUpLeg
+      parentName: genSuit_Hips
+      position: {x: 0.0017116074, y: -0.0012043801, z: 0}
+      rotation: {x: 0.99687386, y: 0.07898639, z: 0.00014984794, w: 0.00191602}
+      scale: {x: 1, y: 1.0000002, z: 1.0000007}
+    - name: genSuit_RightLeg
+      parentName: genSuit_RightUpLeg
+      position: {x: 0.000000007697879, y: 0.007878075, z: 0.00067574263}
+      rotation: {x: 0.0036559298, y: 0.0000037510035, z: -0.000046387315, w: 0.9999934}
+      scale: {x: 1, y: 1.000001, z: 1.0000005}
+    - name: genSuit_RightFoot
+      parentName: genSuit_RightLeg
+      position: {x: -0.0000000028044347, y: 0.008735333, z: 0.0006990003}
+      rotation: {x: 0.006898643, y: -0.108561814, z: 0.07874626, w: 0.9909419}
+      scale: {x: 0.9999999, y: 1.0000018, z: 1.0000015}
+    - name: genSuit_RightToeBase
+      parentName: genSuit_RightFoot
+      position: {x: -0.000000010196397, y: 0.0015908311, z: -0.0022116418}
+      rotation: {x: 9.3132235e-10, y: -0, z: -0.0000000030267977, w: 1}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000002}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.018
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

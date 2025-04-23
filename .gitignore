@@ -1,0 +1,12 @@
+*.csproj
+*.sln
+.vscode/
+Library/
+Logs/
+Temp/
+UserSettings/
+Assets/UnityJapanOffice/
+Assets/UnityJapanOffice.meta
+Builds/
+.DS_Store
+.plastic/
