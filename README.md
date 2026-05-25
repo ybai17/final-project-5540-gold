@@ -1,10 +1,10 @@
-Overtime Escape
+# Overtime Escape
 
-CS 5540 Game Programming Final Project by Group 18 (Christina Zhu and Yilei Bai)
+### CS 5540 Game Programming Final Project by Group 18 (Christina Zhu and Yilei Bai)
 
-A web-based version of the game is deployed [here](https://moonrithyll.itch.io/fp5-gold-release)
+### A web-based version of the game is deployed [here](https://moonrithyll.itch.io/fp5-gold-release)
 
-Credits for assets used:
+# Credits for assets used:
 
 "First Person hands rigged" (https://skfb.ly/BRVC) by David Fischer is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
