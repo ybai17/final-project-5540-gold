@@ -2,7 +2,7 @@ Overtime Escape
 
 CS 5540 Game Programming Final Project by Group 18 (Christina Zhu and Yilei Bai)
 
-asdsadasdasdsdadsadsad
+A web-based version of the game is deployed [here](https://moonrithyll.itch.io/fp5-gold-release)
 
 Credits for assets used:
 
